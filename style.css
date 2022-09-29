@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap');
 
 body {
-  background: linear-gradient(236.85deg, #D27CCA 27.26%, #3468A7 96.03%);   font-family: 'Roboto', sans-serif;
+  background: linear-gradient(236.85deg, #D27CCA 27.26%, #3468A7 96.03%);
+  font-family: 'Roboto', sans-serif;
 }
 
 .container {
@@ -117,34 +118,34 @@ body {
   position: center;
 }
 
-.logoLinkedin{
-    max-width: 50px;
+.logoLinkedin {
+  max-width: 50px;
 }
 
-.logoGit{
-    max-width: 50px;
+.logoGit {
+  max-width: 50px;
 }
 
 .logoCodePen {
-    max-width: 50px;
+  max-width: 50px;
 }
 
 .dark {
   background: linear-gradient(236.85deg, #84397C 27.26%, #6B87A9 96.03%);
 }
-  
+
 .dark .container {
   background: #333439;
   color: #F6F6F6;
 }
 
 .dark .projetos {
-   background: linear-gradient(236.85deg, #84397C 27.26%, #6B87A9 96.03%);
+  background: linear-gradient(236.85deg, #84397C 27.26%, #6B87A9 96.03%);
   color: #F6F6F6;
 }
 
 .dark .conquistas {
-   background: linear-gradient(236.85deg, #84397C 27.26%, #6B87A9 96.03%);
+  background: linear-gradient(236.85deg, #84397C 27.26%, #6B87A9 96.03%);
   color: #F6F6F6;
 }
 
@@ -160,25 +161,24 @@ body {
   border: 2px solid #F7F7F7;
 }
 
-::-webkit-scrollbar{
-width: 5px;
-height: 5px;
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
 }
 
-::-webkit-scrollbar-thumb{
-background: #1C1C1C;
-border: 1.8px solid #1C1C1C;
-border-radius: 100px;
+::-webkit-scrollbar-thumb {
+  background: #1C1C1C;
+  border: 1.8px solid #1C1C1C;
+  border-radius: 100px;
 }
 
-::-webkit-scrollbar-thumb:hover{
-background: #ECF4FF;
+::-webkit-scrollbar-thumb:hover {
+  background: #ECF4FF;
 }
 
-::-webkit-scrollbar-track{
-background: #ECF4FF;
-border-radius: 100px;
-box-shadow: inset 0px 0px 0px 0px #F0F0F0;
-margin: 15px 0px;
+::-webkit-scrollbar-track {
+  background: #ECF4FF;
+  border-radius: 100px;
+  box-shadow: inset 0px 0px 0px 0px #F0F0F0;
+  margin: 15px 0px;
 }
-
